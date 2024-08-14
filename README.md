@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mason! <br/><a href="https://github.com/joshmadakor1">IT Service Desk Agent</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Aspiring SOC Analyst</a>
+<h1>Hi, I'm Mason! <br/><a href="https://github.com/masonhmeyer">IT Service Desk Agent</a>, <a href="https://linkedin.com/in/mason-meyer-938785223/">Aspiring SOC Analyst</a>
 
 <h2>👨‍💻 Experience:</h2>
 
