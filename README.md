@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Experience:</h2>
 
-**Information Technology Service Desk**  
+**Information Technology Service Desk Agent 1**  
 *Life Time Inc. · Full-time*  
 *Jul 2024 - Present · 2 mos*  
 *Chanhassen, Minnesota, United States · Hybrid*  
