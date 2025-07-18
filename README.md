@@ -4,7 +4,7 @@
 
 **Information Technology Service Desk Agent 1**  
 *Life Time Inc. · Full-time*  
-*Jul 2024 - Present · 2 mos*  
+*Jul 2024 - Present · 13 mos*  
 *Chanhassen, Minnesota, United States · Hybrid*  
 - Diagnosing and resolving hardware/software issues.  
 - Logging and tracking support requests using ServiceNow  
